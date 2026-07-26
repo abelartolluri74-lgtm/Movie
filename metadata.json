@@ -1,0 +1,6 @@
+{
+  "name": "MovieSphere",
+  "description": "MovieSphere – Modern Movie Catalog & Review Platform with Watchlists, Reviews, and AI Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
